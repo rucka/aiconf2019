@@ -1,6 +1,6 @@
-# Pycon 9 - Deep learning from zero to hero
+# AI&ML Conference 2019 - Deep learning from zero to hero
 
-Here both the slides and demos of my talk "Deep learning from zero to hero" at [pycon9 2018](https://www.pycon.it/)
+Here both the slides and demos of my talk "Deep learning from zero to hero" at [AI&ML Conference 2019](https://aiconf.it/)
 
 ## System requirements
 The only dependence of the demos is docker. All demos run in the docker image [rucka/deeplearning](https://hub.docker.com/r/rucka/deeplearning/)
@@ -37,8 +37,8 @@ The pdf slides are available [here](/slides/slides.pdf)
 The slides are also published on [slideshare](https://www.slideshare.net/rucka/deep-learning-from-zero-to-hero).
 
 ## Abstract (italian)
-Avete sentito parlare di Deep Learning ma credete che la teoria alla base sia troppo complessa? Non avete una laurea in matematica e statistica e pensate che il machine learning non faccia per voi? Niente paura: avrete solo bisogno di una conoscenze di base di Python.
+Hai sentito parlare di Deep Learning ma credi che la teoria alla base sia troppo complessa? Non hai una laurea in matematica e statistica e pensi che il machine learning non faccia per te? Niente paura: hai solo bisogno di una conoscenze di base di Python.
 
-Conoscete la regola dell’80/20? Con il 20% delle conoscenze potete raggiungere l’80% dei risultati: in questo talk vi mostrerò in modo pratico tramite delle demo - alcuni trucchi per costruire dei buoni modelli predittivi, evitando di perdere (tanto) tempo nella scelta dei tools e delle librerie necessarie al vostro scopo.
+Mai sentito la regola dell’80/20? Con il 20% delle conoscenze puoi raggiungere l’80% dei risultati: in questo talk ti mostrerò in modo pratico tramite delle demo - alcuni trucchi per costruire dei buoni modelli predittivi, evitando di perdere (tanto) tempo nella scelta dei tools e delle librerie necessarie al tuo scopo.
 
-L’obbiettivo è fornirvi le basi pratiche con cui scegliere un modello di rete neurale, farne training e ottimizzarlo nel modo più adatto alla tipologia del problema che dovete affrontare.
+L’obbiettivo è fornirti le basi pratiche con cui scegliere un modello di rete neurale, farne training e ottimizzarlo nel modo più adatto alla tipologia del problema che devi affrontare.
