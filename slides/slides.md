@@ -19,7 +19,7 @@
 ---
 
 ## *communities*
-### Ugidotnet **|** Scala Milano Meetup
+### Ugidotnet **|** Scala Milano Meetup **|** Marketers
 
 ![](assets/community.jpg)
 
@@ -111,8 +111,8 @@ homer 0.010124116
 
 #common scenarios
 
-![left original](assets/self-driving.jpg)
-![right original](assets/speech.jpg)
+![left](assets/self-driving.jpg)
+![right](assets/speech.jpg)
 
 ---
 
@@ -171,6 +171,19 @@ model.most_similar(
 [^4]: Credits: [The dark side of deep learning - Simone Scardapane - Codemotion 2017](https://www.youtube.com/watch?v=fs6cLWQYr_I) 
 
 ---
+#calculate: (Rome - Italy) + France = ?
+
+```model['Rome'] - model['Italy'] + model['France'] ```  
+##[(u'Paris', 0.7167540192604065)]
+
+---
+
+#calculate: (gone - go) + eat = ?
+
+``` model['gone'] - model['go'] + model['eat'] ```  
+##[(u'eaten', 0.7462186217308044)]
+
+---
 
 #common solutions 
 ##ready to go dataset[^5]
@@ -224,6 +237,18 @@ model.most_similar(
 ![fit left](assets/neural_net.jpg)
 ![fit right](assets/perception.png)
 
+^
+https://www.spindox.it/it/blog/ml1-reti-neurali-demistificate/
+LO SCOPO DELLE RETI NEURALI È DI ESSERE UN UNIVERSAL FUNCTION APPROXIMATOR, OVVERO ESSERE IN GRADO DI APPROSSIMARE QUALSIASI FUNZIONE, E PER FARE QUESTO È NECESSARIO INTRODURRE UN FATTORE DI NON LINEARITÀ, DA QUI LA FUNZIONE DI ATTIVAZIONE
+
+---
+
+![fit](assets/neural_net.jpg)
+
+---
+
+![fit](assets/perception.png)
+
 ---
 
 ![fit original](assets/NeuralNetworkColored.jpg)
@@ -235,11 +260,21 @@ model.most_similar(
 
 ---
 
+![150%](assets/nonconvex.png)
+
+---
+
 #5. refine the model
 ####_add layers_
 ####_change model architecture_
 ####_enhance your data_
-![original](assets/refine.jpg)
+![](assets/refine.jpg)
+
+---
+
+![115% original](assets/overfitting2.jpg)
+
+##overfitting
 
 ---
 
@@ -256,7 +291,7 @@ model.most_similar(
 
 #**tip III**: 
 ###you should trust the graph
-![fit original](assets/training_history.png)
+![fit](assets/training_history.png)
 
 ---
 
