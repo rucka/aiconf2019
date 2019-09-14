@@ -1,20 +1,12 @@
-<br>
-#*Deeplearning*
-##from zero to hero
 
-####Gianluca Carucci | @rucka | gianluca.carucci.org
-
-<br>
-###### slides & code __*https://github.com/rucka/aiconf2019*__
-
-![](assets/landing.jpg)
+![](assets/landing.png)
 
 ---
-##*what I do*
-###Software Engineer **|** Agile coach
-###@Hyperfair inc
 
-![](assets/wordcloud.png)
+
+![](assets/me.png)
+
+
 
 ---
 
@@ -44,6 +36,10 @@
 
 ---
 
+![](assets/spoiler.jpg)
+
+---
+
 #goal
 
 ![](assets/goal.jpg)
@@ -64,7 +60,11 @@
 - [How to Retrain Inception's Final Layer for New Categories](https://www.tensorflow.org/tutorials/image_retraining) 
 - [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
 
- ---
+---
+
+![fit original](assets/aiconf_code&slides.png)
+
+---
 
 #the simpsons detector
 
@@ -109,6 +109,28 @@ homer 0.010124116
 
 ---
 
+#the simpsons detector
+
+### summary
+
+```bash
+root@cc5a496bf40e:/code/simpson_retraining# ./retrain.sh 
+....
+INFO:tensorflow:2018-02-25 10:00:39.674607: Step 3999: Train accuracy = 97.0%
+INFO:tensorflow:2018-02-25 10:00:39.674859: Step 3999: Cross entropy = 0.175444
+INFO:tensorflow:2018-02-25 10:00:40.073648: Step 3999: Validation accuracy = 90.0% (N=100)
+INFO:tensorflow:Final test accuracy = 90.4% (N=261)
+```
+
+```bash
+root:/code/simpson_retraining# ./evaluate.sh /data/simpson/test_set/0.jpg`
+bart 0.63594097
+marge 0.3191907
+lisa 0.034744244
+homer 0.010124116
+```
+---
+
 #common scenarios
 
 ![left](assets/self-driving.jpg)
@@ -127,7 +149,13 @@ homer 0.010124116
 ---
 
 #common solutions 
-##ready to go libraries[^3]
+##Cloud Services 
+![](assets/cognitive_services.png)
+
+---
+
+#common solutions 
+##ready to go libraries or tools[^3]
 
 ![](assets/opencv.png)
 ![](assets/spaCy.png)
@@ -182,6 +210,13 @@ model.most_similar(
 
 ``` model['gone'] - model['go'] + model['eat'] ```  
 ##[(u'eaten', 0.7462186217308044)]
+
+---
+
+#common solutions 
+##Visual Studio ML Model builder
+
+![inline 85%](assets/ml-dotnet-model-builder.gif)
 
 ---
 
@@ -360,6 +395,13 @@ LO SCOPO DELLE RETI NEURALI È DI ESSERE UN UNIVERSAL FUNCTION APPROXIMATOR, OVV
 
 ---
 
+#thank *you*!
+
+![](assets/goodbye.jpg)
+
+---
+
+
 #questions?
 
 ![original](assets/questions.jpg)
@@ -369,10 +411,7 @@ LO SCOPO DELLE RETI NEURALI È DI ESSERE UN UNIVERSAL FUNCTION APPROXIMATOR, OVV
 
 ---
 
-#thank *you*!
 
-### slide & code
-#### https://github.com/rucka/aiconf2019
-#### https://github.com/rucka/deeplearning_docker
+![fit original](assets/aiconf_code&slides.png)
 
-![](assets/goodbye.jpg)
+
