@@ -115,6 +115,9 @@ homer 0.010124116
 
 ```bash
 root@cc5a496bf40e:/code/simpson_retraining# ./retrain.sh 
+INFO:tensorflow:2018-02-25 09:26:27.689515: Step 0: Train accuracy = 53.0%
+INFO:tensorflow:2018-02-25 09:26:27.689750: Step 0: Cross entropy = 1.367082
+INFO:tensorflow:2018-02-25 09:26:28.583996: Step 0: Validation accuracy = 33.0% (N=100)
 ....
 INFO:tensorflow:2018-02-25 10:00:39.674607: Step 3999: Train accuracy = 97.0%
 INFO:tensorflow:2018-02-25 10:00:39.674859: Step 3999: Cross entropy = 0.175444
