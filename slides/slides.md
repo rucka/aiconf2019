@@ -1,19 +1,8 @@
+![](assets/AIMLCONF.jpg)
+
+---
 
 ![](assets/landing.png)
-
----
-
-
-![](assets/me.png)
-
-
-
----
-
-## *communities*
-### Ugidotnet **|** Scala Milano Meetup **|** Marketers
-
-![](assets/community.jpg)
 
 ---
 
@@ -43,6 +32,17 @@
 #goal
 
 ![](assets/goal.jpg)
+
+---
+
+![](assets/me.png)
+
+---
+
+## *communities*
+### Ugidotnet **|** Scala Milano Meetup **|** Marketers
+
+![](assets/community.jpg)
 
 ---
 
@@ -417,4 +417,7 @@ LO SCOPO DELLE RETI NEURALI È DI ESSERE UN UNIVERSAL FUNCTION APPROXIMATOR, OVV
 
 ![fit original](assets/aiconf_code&slides.png)
 
+---
+
+![](assets/AIMLCONF.jpg)
 
