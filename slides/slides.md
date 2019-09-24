@@ -5,6 +5,11 @@
 
 ---
 
+![](assets/sleep.jpg)
+
+---
+
+
 #how we meet
 
 ![](assets/nn4ml1.png)
