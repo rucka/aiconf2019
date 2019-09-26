@@ -42,10 +42,6 @@
 ![](assets/me.png)
 
 
-^ 
-Sono Gianluca Carucci, sono un ing.informatico e aiuto le aziende a sviluppare le piattaforme tecnologiche su cui basano i propri busniess e lo faccio cercando di rispettare gli obbiettivi di tempo budget e qualità che sembra scontato ma non lo, altrimenti una statistica di IBM non direbbe che il 60% dei progetti fallisce per uno di questi motivi.
-Negli anni ho gestito team sia dal punto di vista di leadership tecnica che di governance, metodologico, che ovviamente scritto chili di codice, perchè amo ancora farlo, per aziende come Bnpparibas, Manpower, Hyperfair, casait, federazione italiana tennis...
-
 ---
 
 ## *communities*
@@ -151,6 +147,12 @@ homer 0.010124116
 ---
 
 #common solutions 
+##Cloud Services 
+![](assets/cognitive_services.png)
+
+---
+
+#common solutions 
 ##ready to go models[^2]
 
 ![left](assets/tfmodels1.png)
@@ -160,11 +162,7 @@ homer 0.010124116
 
 ---
 
-#common solutions 
-##Cloud Services 
-![](assets/cognitive_services.png)
 
----
 
 #common solutions 
 ##ready to go libraries or tools[^3]
