@@ -116,7 +116,7 @@ homer 0.010124116
 
 #the simpsons detector
 
-### summary
+### training results
 
 ```bash
 root@cc5a496bf40e:/code/simpson_retraining# ./retrain.sh 
