@@ -34,7 +34,7 @@ The slide markup has been compiled with [Deckset app for OSX](http://www.deckset
 
 The pdf slides are available [here](/slides/slides.pdf)
 
-The slides are also published on [slideshare](https://www.slideshare.net/rucka/deep-learning-from-zero-to-hero).
+The slides are also published on [slideshare](https://www.slideshare.net/rucka/aiml-conference-2019-deep-learning-from-zero-to-hero).
 
 ## Abstract (italian)
 Hai sentito parlare di Deep Learning ma credi che la teoria alla base sia troppo complessa? Non hai una laurea in matematica e statistica e pensi che il machine learning non faccia per te? Niente paura: hai solo bisogno di una conoscenze di base di Python.
